@@ -1,0 +1,16 @@
+co/com/automation/web/purchase/PurchasePageObject.java
+ co.com.automation.web.purchase.PurchasePageObject
+co/com/automation/web/login/LoginSteps.java
+ co.com.automation.web.login.LoginSteps
+co/com/automation/web/login/LoginPageObject.java
+ co.com.automation.web.login.LoginPageObject
+co/com/automation/web/login/LoginDefinition.java
+ co.com.automation.web.login.LoginDefinition
+co/com/automation/web/purchase/PurchaseDefinition.java
+ co.com.automation.web.purchase.PurchaseDefinition
+co/com/automation/web/purchase/PurchaseSteps.java
+ co.com.automation.web.purchase.PurchaseSteps
+co/com/automation/web/RunnerTags.java
+ co.com.automation.web.RunnerTags
+co/com/automation/web/model/Product.java
+ co.com.automation.web.model.Product
