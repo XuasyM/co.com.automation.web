@@ -54,7 +54,7 @@ It will be the path where the drivers of the browsers are hosted
 It is the configuration file for the execution properties of the test cases
 
 
-#**how to run it**
+# **how to run it**
 You can run the project in two ways:
 The first is to run the test case on the feature file, there you can run all cases of the feature or run case by case
 
@@ -67,7 +67,7 @@ Run a test case
 Run several cases that have the regression tag
 
 
-#**Generate reports**
+# **Generate reports**
 To generate the execution report it is necessary to execute the following commands
 
 gradle clean
